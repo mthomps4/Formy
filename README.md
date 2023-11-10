@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+https://www.bearer.com/blog/how-to-build-modals-with-hotwire-turbo-frames-stimulusjs
+
+https://www.hotrails.dev/articles/rails-modals-with-hotwire
